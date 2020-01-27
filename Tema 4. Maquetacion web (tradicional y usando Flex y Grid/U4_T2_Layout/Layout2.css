@@ -1,0 +1,106 @@
+* { box-sizing: border-box;   
+}
+.container{
+height:90%; 
+width:100%; 
+margin: auto;
+}
+.azul{
+background-color: rgb(135, 190, 235);
+color: white;
+height:50%; 
+width:100%; 
+margin-bottom: -20px;
+}
+
+.caja{
+    height:50%; 
+    width:70%; 
+    margin: auto;
+}
+.cajamenu{
+background-color: skyblue;
+color: white;
+height:20%; 
+margin: auto;
+}
+.logo{ 
+width:20%; 
+float: left;
+}
+.boton{
+float: left;
+width:15%; 
+background-color: black; color: white;
+}
+.menu{
+float: left;
+width: 65%;
+background-color: skyblue;
+padding: 0.5rem;
+}
+.menu div{
+    display: inline-block;
+    width: 12%;
+}
+.login{
+    text-align: right;
+    padding: 0.5rem;
+}
+.caja2 img{
+    clear: left;
+}
+.cajamono{
+height:50%; 
+width:70%; 
+margin left:15%;
+}
+.caja2{ 
+width:70%; 
+margin-left: 0px;
+}
+.caja3{
+width:50%; 
+float: right;
+}
+.gris{
+background-color: gray;
+color: white;
+height:40%; 
+width:100%; 
+margin-top: 0px;
+}
+
+.cajablanca{
+background-color: white;
+color: black;
+height:60%; 
+width:70%;
+text-align: center;
+display: inline-block;
+margin-left: 15%;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 25px;
+}
+.imagen1{
+    width: 200px;
+}
+.imagen4{
+    width: 200px;
+}
+.imagen2{
+    width: 200px;
+}
+.imagen3{
+    width: 200px;
+}
+   
+
+
+
+
+
+
+
+
