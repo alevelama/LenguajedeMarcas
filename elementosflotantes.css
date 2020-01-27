@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 10px auto;
+    width: 90%;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header nav {
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+header nav div {
+    display: inline-block;
+    width: 15%;
+    padding: 0.5rem;
+}
+
+.lateral{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 10%;
+    height: 620px;
+    float: left;
+    text-align: left;
+}
+.imagen{
+    text-align: center;
+    width:28%;
+    float:left;
+    border-radius:10px;
+    border: 1px  solid black;
+margin: 10px;
+  }
+.texto{
+    display: inline-block;
+    text-align: left;
+    width: 28%;
+    margin-left:10px;
+}
+
+footer{
+background-color: grey;
+color: black;
+padding: 1rem;
+text-align: center;
+}
